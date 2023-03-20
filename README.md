@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Front-end Development with React.**
 
-- 👨‍💻 All of my projects are available at: [https://resplendent-elf-b9c8e9.netlify.app/](https://resplendent-elf-b9c8e9.netlify.app/)
+- 👨‍💻 All of my projects are available at: [https://resplendent-elf-b9c8e9.netlify.app/](https://resplendent-elf-b9c8e9.netlify.app/) or in repositories.
 
 - 📫 How to reach me: **jakub.jawniak@gmail.com**
 
